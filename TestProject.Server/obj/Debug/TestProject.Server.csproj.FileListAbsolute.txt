@@ -1,0 +1,6 @@
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Debug\TestProject.Server.exe.config
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Debug\TestProject.Server.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Debug\TestProject.Server.pdb
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\obj\Debug\TestProject.Server.csprojResolveAssemblyReference.cache
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\obj\Debug\TestProject.Server.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\obj\Debug\TestProject.Server.pdb

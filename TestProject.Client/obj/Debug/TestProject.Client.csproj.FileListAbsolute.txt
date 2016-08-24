@@ -1,0 +1,6 @@
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\bin\Debug\TestProject.Client.exe.config
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\bin\Debug\TestProject.Client.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\bin\Debug\TestProject.Client.pdb
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\obj\Debug\TestProject.Client.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\obj\Debug\TestProject.Client.pdb
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Client\obj\Debug\TestProject.Client.csprojResolveAssemblyReference.cache

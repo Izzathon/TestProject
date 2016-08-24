@@ -1,0 +1,5 @@
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Release\TestProject.Server.exe.config
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Release\TestProject.Server.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\bin\Release\TestProject.Server.pdb
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\obj\Release\TestProject.Server.exe
+C:\Users\Izzatkhon\Desktop\T\TestProject\TestProject.Server\obj\Release\TestProject.Server.pdb
